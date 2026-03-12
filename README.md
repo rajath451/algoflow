@@ -1,24 +1,16 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AlgoFlow
 
-# Run and deploy your AI Studio app
+AlgoFlow is a lightweight tool for visualizing and understanding algorithms.  
+It provides step-by-step execution flows, making it easier to learn, debug, and demonstrate data structures and algorithms in action.
 
-This contains everything you need to run your app locally.
+## ✨ Highlights
+- Easy-to-use interface for exploring algorithms
+- Step-by-step visualization of execution
+- Modular design for adding new algorithms
+- Built for learners, developers, and educators
 
-View your app in AI Studio: https://ai.studio/apps/drive/1AwKbdHQ6Y13hQy4oG46Oq4ADrqELa5RL
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+## 📜 License
+Copyright © 2026 Rajath  
+All rights reserved. This project is proprietary and may not be copied, modified, or distributed without explicit permission.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
-# algoflow
->>>>>>> 4edf25f966d328dbd2be29acf78ff1e1724a4205
